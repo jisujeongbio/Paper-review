@@ -12,7 +12,6 @@ We organized this journal club to share knowledge from each member’s area of e
 | 2026-07-09 | **Scalable and multiplexed recorders of gene regulation dynamics across weeks**<br>Zheng et al. (2026), *Nature* | Protein engineering | Jewoo Kim | - |
 | 2026-07-23 | **An emergent disease-associated motor neuron state precedes cell death in ALS**<br>Gautier et al. (2026), *Cell* | Multi-omics, ALS | Jisu Jeong | [notes](notes/2026-07-23_Gautier_2026_Cell.md) |
 | 2026-07-31 | **Emergence of specific binding and catalysis from a designed generalist binding protein**<br>Chen et al. (2026), *Nature Chemistry* | Protein engineering, De novo protein design | Eunho Kang | - |
-| 2026-08-06 | **Open-ST_ High-resolution spatial transcriptomics in 3D**<br>Schott et al. (2024), *Cell* | Spatial transcriptomics | Jisu Jeong | [notes](notes/2026-08-06_Schott_2024_Cell.md) |
-| 2026-08-16 | **-**<br>- et al. (-), *-* | - | Jewoo Kim | - |
-| 2026-08-23 | **-**<br>- et al. (-), *-* | - | Eunho Kang | - |
-| 2026-08-30 | **-**<br>- et al. (-), *-* | - | Jisu Jeong | - |
+| 2026-08-11 | **Genetic variation in the Nr1d1 transcription factor binding site shapes metabolism-related protein networks associated with cognitive resilience in an Alzheimer's disease mouse reference panel**<br>Chen et al. (2025), *Alzheimer's & Dementia* | Proteomics, Alzheimer's disease, bioinformatics  | Jisu Jeong | [notes](notes/2026-08-11_Chen_2025_Alzheimer's&Dementia.md) |
+| 2026-08-20 | **-**<br>- et al. (-), *-* | - | Eunho Kang | - |
+| 2026-08-27 | **-**<br>- et al. (-), *-* | - | Jewoo Kim | - |
