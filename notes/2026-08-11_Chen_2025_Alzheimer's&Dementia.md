@@ -27,7 +27,7 @@
 ## Discussion notes
 - This study focused on resilience rather than AD risk, providing a different perspective on disease heterogeneity.
 - The Nr1d1 effect appeared to be sex- and age-specific, mainly in 6-month-old female mice.
-- (Jewoo) CRISPR-based perturbation of the eight resilience-associated proteins could help test whether they causally affect cognitive resilience.
+- (Jewoo Kim) CRISPR-based perturbation of the eight resilience-associated proteins could help test whether they causally affect cognitive resilience.
 
 ## Personal notes
 - I expect that a similar strategy could be applied to human cohort datasets, like the UK biobank, to study resilience by integrating genetic variants with pQTLs and other molecular phenotypes.
