@@ -3,7 +3,7 @@ This repository contains notes from our informal journal club covering bioinform
 
 We organized this journal club to share knowledge from each member’s area of expertise, learn unfamiliar topics from one another, and discuss recent papers together.
 
-## Journal Club Schedule
+## 2026 Journal Club Schedule
 
 | Date |  Paper | Topic | Presenter | Notes |
 |---|---|---|---|---|
