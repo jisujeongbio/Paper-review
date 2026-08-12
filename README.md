@@ -1,7 +1,7 @@
 # Paper-review
 This repository contains notes from our informal journal club covering bioinformatics, neuroscience, cellular and molecular biology, structural biology and related computational biology topics.
 
-We organized this journal club to share knowledge from each member’s area of expertise, learn unfamiliar topics from one another, and discuss recent papers together.
+We organized this journal club to share knowledge from each member’s area of expertise, learn unfamiliar topics from one another, discuss recent papers together, and apply the insights and new ideas gained from these discussions to our own research.
 
 ## 2026 Journal Club Schedule
 
