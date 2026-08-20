@@ -14,4 +14,6 @@ We organized this journal club to share knowledge from each member’s area of e
 | 2026-07-31 | **Emergence of specific binding and catalysis from a designed generalist binding protein**<br>Chen et al. (2026), *Nature Chemistry* | Protein engineering, De novo protein design | Kang | - |
 | 2026-08-11 | **Genetic variation in the Nr1d1 transcription factor binding site shapes metabolism-related protein networks associated with cognitive resilience in an Alzheimer's disease mouse reference panel**<br>Chen et al. (2025), *Alzheimer's & Dementia* | Proteomics, Alzheimer's disease, bioinformatics  | **Jisu Jeong** | [notes](notes/2026-08-11_Chen_2025_Alzheimer's&Dementia.md) |
 | 2026-08-20 | **Large-scale discovery, analysis and design of protein energy landscapes**<br>Ferrari et al. (2026), *Nature* | - | Kang | - |
-| 2026-08-27 | **-**<br>- et al. (-), *-* | - | Kim | - |
+| 2026-09-12 | **-**<br>- et al. (-), *-* | - | Kim | - |
+| 2026-09-19 | **-**<br>- et al. (-), *-* | - | **Jisu Jeong** | - |
+| 2026-09-26 | **-**<br>- et al. (-), *-* | - | Kang | - |
