@@ -16,7 +16,7 @@ We organized this journal club to share knowledge from each member’s area of e
 | 2026-08-20 | **Large-scale discovery, analysis and design of protein energy landscapes**<br>Ferrari et al. (2026), *Nature* | Protein energy landscape, protein folding | Kang | - |
 | 2026-09-02 | **Keratin 15 promotes a progenitor cell state in basal keratinocytes of skin epidermis**<br>Redmond et al. (2026), *Journal of Cell Biology* | Keratin | Kim | - |
 | 2026-10-04 | **Targeting glial PD-1/PD-L1 restores microglial homeostasis and reduces neuronal hyperactivity in an Alzheimer's disease model**<br>Park et al. (2026), *Science Advances* | AD, glial interaction, PD-1/PD-L1 | **Jisu Jeong** | [notes](notes/2026-10-01_Park_2026_Science_Advances.md) |
-| 2026-10-18 | **-**<br>- et al. (-), *-* | - | Kang | - |
+| 2026-10-18 | **Designed endocytosis-inducing proteins degrade targets and amplify signals**<br>Huang et al. (2025), *Nature* | Protein design | Kang | - |
 | 2026-11-01 | **-**<br>- et al. (-), *-* | - | **Jisu Jeong** | - |
 | 2026-11-15 | **-**<br>- et al. (-), *-* | - | Kang | - |
 | 2026-11-29 | **-**<br>- et al. (-), *-* | - | **Jisu Jeong** | - |
